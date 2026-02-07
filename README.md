@@ -43,4 +43,11 @@
 ### Pre-check Queries for Flagging Errors <br/>
 <img width="715" height="148" alt="Screenshot 2026-02-07 125020" src="https://github.com/user-attachments/assets/6eae5fdb-bbd4-4c4e-b1f4-fd202120cf89" />
 <img width="758" height="146" alt="Screenshot 2026-02-07 124638" src="https://github.com/user-attachments/assets/33408288-fabf-4b46-b9c5-640d709feaf8" />
+<br/>
+<br/>
 
+### Data Quality Check Queries
+<img width="1812" height="73" alt="Screenshot 2026-02-07 130025" src="https://github.com/user-attachments/assets/a2bb535b-cf36-47e3-9735-407ae341776b" />
+<img width="1747" height="96" alt="Screenshot 2026-02-07 130050" src="https://github.com/user-attachments/assets/2e738ab0-0cf1-4575-9077-540edce04183" />
+<br/>
+<br/>
