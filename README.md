@@ -34,4 +34,11 @@ Data Extraction Query for target columns
 <br/>
 <br/>
 <br/>
+
+Extraction Queries for creating new tables <br/>
+<img width="366" height="201" alt="Screenshot 2026-02-07 123833" src="https://github.com/user-attachments/assets/b716b5b5-4cc1-485b-b552-34e38cbf1ac4" />
+<img width="849" height="197" alt="Screenshot 2026-02-07 124202" src="https://github.com/user-attachments/assets/68801bbd-2376-4036-a21b-a251ce16f308" />
+
 <br/>
+<br/>
+
