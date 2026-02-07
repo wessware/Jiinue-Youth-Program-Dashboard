@@ -41,4 +41,7 @@ Extraction Queries for creating new tables <br/>
 
 <br/>
 <br/>
+Preview Extraction Queries for specific entries
+<img width="885" height="108" alt="Screenshot 2026-02-07 124415" src="https://github.com/user-attachments/assets/d02aaf76-bbc9-4b57-b970-e085e265d053" />
+
 
