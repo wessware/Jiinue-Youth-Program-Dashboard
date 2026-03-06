@@ -1,4 +1,4 @@
-# Mastercard Jiinue Program Dashboard
+# Mastercard Jiinue Youth Program Dashboard
 ### Final Dashboard
 <img width="1346" height="764" alt="Screenshot 2026-02-07 121126" src="https://github.com/user-attachments/assets/b18c3c8a-7b98-472f-9500-0d8f3d53f373" />
 <br/>
